@@ -109,7 +109,7 @@ working on making the "aspiring software engineer" live element work properly --
     background-image: linear-gradient(#00abf0, #00abf0);
     background-repeat: no-repeat;
     -webkit-background-clip: text;
-    background-position: -470px 0;
+    background-position: -520px 0;
     animation: animateText 6s linear infinite;
 
 }
@@ -117,7 +117,7 @@ working on making the "aspiring software engineer" live element work properly --
 @keyframes animateText {
 
     0%,95%,100% {
-        background-position: -470px 0;
+        background-position: -520px 0;
     }
     65%,85% {
         background-position: 0 0;
