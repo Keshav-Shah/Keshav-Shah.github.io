@@ -64,8 +64,9 @@
 
     width: 500px;
     height: 500px;
-    background: seagreen;
-
+    background: #031450;
+    border-radius: 50%;
+    border: 25px solid #fff;
 
 }
 
@@ -120,6 +121,38 @@
     color: #00abf0;
     text-decoration: none;
     margin-left: 12px;
+    transition: .5s;
 
 }
 
+.home-sci a:hover {
+
+    background: #00abf0;
+    color: #fff;
+    border-color: #00abf0;
+    box-shadow: 0 0 10px #00abf0;
+
+}
+
+.btn {
+
+    padding: 12px 35px;
+    background: #00abf0;
+    border-radius: 40px;
+    font-size: 17px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    letter-spacing: 1px;
+    box-shadow: 0 0 10px #00abf0;
+    transition: .5s;
+
+}
+
+.btn:hover {
+
+    box-shadow: none;
+
+
+
+}
