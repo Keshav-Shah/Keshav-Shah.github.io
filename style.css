@@ -98,6 +98,9 @@
 
 }
 
+/*
+working on making the "aspiring software engineer" live element work properly --> background-position field needs to be altered
+*/
 .home-content h3 {
 
     font-size: 40px;
@@ -114,7 +117,7 @@
 @keyframes animateText {
 
     0%,95%,100% {
-        background-position: -410px 0;
+        background-position: -470px 0;
     }
     65%,85% {
         background-position: 0 0;
