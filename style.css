@@ -102,16 +102,14 @@
 working on making the "aspiring software engineer" live element work properly --> background-position field needs to be altered
 */
 .home-content h3 {
-
     font-size: 40px;
     color: transparent;
-    -webkit-text-stroke: .5px #fff;
+    -webkit-text-stroke: .5px #fff;                                                                                 
     background-image: linear-gradient(#00abf0, #00abf0);
     background-repeat: no-repeat;
     -webkit-background-clip: text;
     background-position: -570px 0;
-    animation: animateText 6s linear infinite;
-
+    animation: animateText 4s linear infinite;
 }
 
 @keyframes animateText {
