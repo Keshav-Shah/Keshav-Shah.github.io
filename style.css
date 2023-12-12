@@ -177,14 +177,6 @@ working on making the "aspiring software engineer" live element work properly --
     transition: .5s;
 
 }
-.home-sci a.linkedin {
-    order: -1;
-    margin-right: 12px;
-}
-
-.btn {
-    margin-left: 12px;
-}
 
 .btn:hover {
 
